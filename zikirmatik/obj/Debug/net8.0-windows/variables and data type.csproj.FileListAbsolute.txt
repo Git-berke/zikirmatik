@@ -1,0 +1,18 @@
+C:\Users\berke\source\repos\variables and data type\variables and data type\bin\Debug\net8.0-windows\variables and data type.exe
+C:\Users\berke\source\repos\variables and data type\variables and data type\bin\Debug\net8.0-windows\variables and data type.deps.json
+C:\Users\berke\source\repos\variables and data type\variables and data type\bin\Debug\net8.0-windows\variables and data type.runtimeconfig.json
+C:\Users\berke\source\repos\variables and data type\variables and data type\bin\Debug\net8.0-windows\variables and data type.dll
+C:\Users\berke\source\repos\variables and data type\variables and data type\bin\Debug\net8.0-windows\variables and data type.pdb
+C:\Users\berke\source\repos\variables and data type\variables and data type\obj\Debug\net8.0-windows\variables_and_data_type.Form1.resources
+C:\Users\berke\source\repos\variables and data type\variables and data type\obj\Debug\net8.0-windows\variables and data type.csproj.GenerateResource.cache
+C:\Users\berke\source\repos\variables and data type\variables and data type\obj\Debug\net8.0-windows\variables and data type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berke\source\repos\variables and data type\variables and data type\obj\Debug\net8.0-windows\variables and data type.AssemblyInfoInputs.cache
+C:\Users\berke\source\repos\variables and data type\variables and data type\obj\Debug\net8.0-windows\variables and data type.AssemblyInfo.cs
+C:\Users\berke\source\repos\variables and data type\variables and data type\obj\Debug\net8.0-windows\variables and data type.csproj.CoreCompileInputs.cache
+C:\Users\berke\source\repos\variables and data type\variables and data type\obj\Debug\net8.0-windows\variables and data type.dll
+C:\Users\berke\source\repos\variables and data type\variables and data type\obj\Debug\net8.0-windows\refint\variables and data type.dll
+C:\Users\berke\source\repos\variables and data type\variables and data type\obj\Debug\net8.0-windows\variables and data type.pdb
+C:\Users\berke\source\repos\variables and data type\variables and data type\obj\Debug\net8.0-windows\variables and data type.genruntimeconfig.cache
+C:\Users\berke\source\repos\variables and data type\variables and data type\obj\Debug\net8.0-windows\ref\variables and data type.dll
+C:\Users\berke\source\repos\variables and data type\variables and data type\obj\Debug\net8.0-windows\variables_and_data_type.Properties.Resources.resources
+C:\Users\berke\source\repos\variables and data type\variables and data type\obj\Debug\net8.0-windows\variables_and_data_type.Resource1.resources
